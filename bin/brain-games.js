@@ -4,6 +4,10 @@
 
 
 
-import { greetUser } from '../src/cli.js';
+//import { greetUser } from '../src/cli.js';
 
-greetUser();
+//greetUser();
+
+import run from '../src/cli.js';
+
+run();
